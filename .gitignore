@@ -26,6 +26,9 @@ share/python-wheels/
 *.egg
 MANIFEST
 chest/
+Chest-CT-Scan-data/
+artifacts/
+MLOps_Tool_Demo/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
